@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="panoptic_val2017">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/owl_vit/scenic/scenic/dataset_lib/coco_dataset/data/panoptic_val2017.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

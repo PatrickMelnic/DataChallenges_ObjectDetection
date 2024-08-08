@@ -1,0 +1,1 @@
+['zeus', 'thunderbolt', 'serpent staff', 'pollux', 'octavia', 'laurel branch', 'helmsman', 'eros', 'column', 'bear', 'actaeon']
