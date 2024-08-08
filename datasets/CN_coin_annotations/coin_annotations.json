@@ -1,0 +1,1718 @@
+{
+  "licenses": [
+    {
+      "name": "",
+      "id": 0,
+      "url": ""
+    }
+  ],
+  "info": {
+    "contributor": "",
+    "date_created": "",
+    "description": "",
+    "url": "",
+    "version": "",
+    "year": ""
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "gaius caesar",
+      "supercategory": ""
+    },
+    {
+      "id": 2,
+      "name": "horse",
+      "supercategory": ""
+    },
+    {
+      "id": 3,
+      "name": "lyre",
+      "supercategory": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_11677_MK_18242015_cn_coin_18452_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 2,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_11677_cn_coin_23521_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 3,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_11677_cn_coin_40419_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 4,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_16696_BNF_41767746_cn_coin_23149_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 5,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_16696_BNF_41767747_cn_coin_23150_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 6,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_18621_MK_Platzhalter_cn_coin_40967_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 7,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_18621_MK_Platzhalter_cn_coin_40970_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 8,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_18621_MK_Platzhalter_cn_coin_40971_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 9,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4589_BNF_41767731_cn_coin_23134_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 10,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4589_MK_18225906_cn_coin_17959_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 11,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4589_MK_18265756_cn_coin_19947_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 12,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4589_cn_coin_20658_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 13,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4589_cn_coin_20660_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 14,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4589_cn_coin_23134_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 15,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4604_BNF_41767745_cn_coin_23148_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 16,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4604_MK_18225905_cn_coin_17958_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 17,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4604_MK_18265757_cn_coin_19948_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 18,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4604_cn_coin_20704_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 19,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4604_cn_coin_20705_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 20,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4604_cn_coin_20706_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 21,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_1012_MK_18243399_cn_coin_5696_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 22,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_11484_MK_18265899_cn_coin_19981_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 23,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_12177_MK_18271544_cn_coin_39113_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 24,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_1938_cn_coin_2074_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 25,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_2035_MK_18239099_cn_coin_1984_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 26,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_20593_BNF_41767201_cn_coin_22605_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 27,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_21057_MK_18278199_cn_coin_50825_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 28,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_296_cn_coin_1314_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 29,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3066_cn_coin_14836_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 30,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3183_MK_18268760_cn_coin_14955_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 31,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3190_BNF_41767226_cn_coin_22630_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 32,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3845_cn_coin_15875_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 33,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_532_BNF_Platzhalter_cn_coin_2061_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 34,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_555_MK_18245926_cn_coin_5091_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 35,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_787_MK_18235221_cn_coin_5607_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 36,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_827_cn_coin_2562_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 37,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_9043_MK_18248649_cn_coin_33002_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 38,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_9043_cn_coin_33001_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 39,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_914_cn_coin_5287_p_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 40,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_965_BNF_749_cn_coin_6149_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 41,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_1084_MK_18239135_cn_coin_4675_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 42,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_1084_cn_coin_2037_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 43,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_11936_MK_18247060_cn_coin_10298_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 44,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_12393_BNF_41766526_cn_coin_21930_o_obv.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 45,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_1321_cn_coin_2111_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 46,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_1349_MK_18239213_cn_coin_2143_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 47,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_14351_MK_18235352_cn_coin_4562_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 48,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_18164_BNF_41767163_cn_coin_22567_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 49,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_224_MK_18250003_cn_coin_7988_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 50,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_235_MK_18249759_cn_coin_10710_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 51,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_2687_cn_coin_14457_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 52,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3099_MK_18268281_cn_coin_14876_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 53,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3324_BNF_Fonds général 80_cn_coin_15176_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 54,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3560_MK_18262416_cn_coin_15508_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 55,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3564_MK_18262430_cn_coin_15514_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 56,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_3760_BNF_41767075_cn_coin_22479_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 57,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4212_MK_18248053_cn_coin_6736_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 58,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_4625_MK_Platzhalter_cn_coin_20741_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 59,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_6446_MK_18237184_cn_coin_3644_o_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 60,
+      "width": 299,
+      "height": 299,
+      "file_name": "CN_type_7326_cn_coin_29421_p_rev.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 17781.0686,
+      "bbox": [
+        96.29,
+        71.19,
+        113.53,
+        156.62
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 18078.517200000002,
+      "bbox": [
+        62.57,
+        93.67,
+        113.53,
+        159.24
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 21413.475399999996,
+      "bbox": [
+        62.2,
+        5.24,
+        128.14,
+        167.11
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 14031.9373,
+      "bbox": [
+        115.78,
+        81.68,
+        91.79,
+        152.87
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 16085.381200000002,
+      "bbox": [
+        99.29,
+        56.58,
+        98.92,
+        162.61
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 28151.542999999994,
+      "bbox": [
+        69.31,
+        36.72,
+        134.89,
+        208.7
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 32297.325299999997,
+      "bbox": [
+        47.96,
+        32.97,
+        144.63,
+        223.31
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 31594.423499999997,
+      "bbox": [
+        78.68,
+        52.45,
+        144.63,
+        218.45
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 16597.305,
+      "bbox": [
+        106.78,
+        38.22,
+        96.3,
+        172.35
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 19103.061899999997,
+      "bbox": [
+        109.03,
+        19.11,
+        104.91,
+        182.09
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 23641.4592,
+      "bbox": [
+        79.81,
+        61.45,
+        122.52,
+        192.96
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 16245.2133,
+      "bbox": [
+        109.03,
+        57.32,
+        99.67,
+        162.99
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 20296.791899999997,
+      "bbox": [
+        100.79,
+        43.09,
+        107.91,
+        188.09
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 20774.418,
+      "bbox": [
+        94.42,
+        23.23,
+        115.03,
+        180.6
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 18261.968999999997,
+      "bbox": [
+        106.03,
+        69.31,
+        101.54,
+        179.85
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 20413.694400000004,
+      "bbox": [
+        90.67,
+        39.34,
+        106.41,
+        191.84
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 20527.4363,
+      "bbox": [
+        82.8,
+        28.1,
+        109.79,
+        186.97
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 25767.220499999996,
+      "bbox": [
+        60.7,
+        51.33,
+        120.65,
+        213.57
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 23597.908800000005,
+      "bbox": [
+        82.8,
+        37.09,
+        117.28,
+        201.21
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 24111.328799999996,
+      "bbox": [
+        89.92,
+        44.21,
+        120.28,
+        200.46
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 39085.002,
+      "bbox": [
+        67.06,
+        3.36,
+        179.85,
+        217.32
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 34914.138,
+      "bbox": [
+        32.21,
+        25.47,
+        216.2,
+        161.49
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 30285.854099999997,
+      "bbox": [
+        73.05,
+        95.91,
+        191.09,
+        158.49
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 44649.278,
+      "bbox": [
+        43.83,
+        44.2,
+        213.94,
+        208.7
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 29668.714400000004,
+      "bbox": [
+        43.83,
+        52.07,
+        216.94,
+        136.76
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 38462.1489,
+      "bbox": [
+        29.59,
+        36.33,
+        192.59,
+        199.71
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 26462.078,
+      "bbox": [
+        44.2,
+        96.66,
+        210.2,
+        125.89
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 44246.865600000005,
+      "bbox": [
+        27.72,
+        34.46,
+        200.83,
+        220.32
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 24530.3937,
+      "bbox": [
+        40.08,
+        88.04,
+        164.49,
+        149.13
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 30,
+      "image_id": 30,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 55086.682,
+      "bbox": [
+        25.09,
+        9.73,
+        230.44,
+        239.05
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 31,
+      "image_id": 31,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 42235.6143,
+      "bbox": [
+        29.21,
+        50.57,
+        207.21,
+        203.83
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 32,
+      "image_id": 32,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 45944.9928,
+      "bbox": [
+        35.21,
+        53.57,
+        232.68,
+        197.46
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 33,
+      "image_id": 33,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 48457.82549999999,
+      "bbox": [
+        56.94,
+        32.96,
+        202.71,
+        239.05
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 34,
+      "image_id": 34,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 35798.8006,
+      "bbox": [
+        56.19,
+        59.94,
+        191.09,
+        187.34
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 35,
+      "image_id": 35,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 40013.80219999999,
+      "bbox": [
+        53.19,
+        40.83,
+        204.58,
+        195.59
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 36,
+      "image_id": 36,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 37557.0168,
+      "bbox": [
+        41.58,
+        57.32,
+        200.08,
+        187.71
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 37,
+      "image_id": 37,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 24215.003999999997,
+      "bbox": [
+        29.21,
+        79.42,
+        201.96,
+        119.9
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 38,
+      "image_id": 38,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 21179.9952,
+      "bbox": [
+        43.08,
+        92.91,
+        184.72,
+        114.66
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 39,
+      "image_id": 39,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 37192.98469999999,
+      "bbox": [
+        38.21,
+        47.95,
+        199.33,
+        186.59
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 40,
+      "image_id": 40,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 46728.39599999999,
+      "bbox": [
+        35.21,
+        37.46,
+        229.68,
+        203.45
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 41,
+      "image_id": 41,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 18857.980199999998,
+      "bbox": [
+        107.16,
+        24.73,
+        106.41,
+        177.22
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 42,
+      "image_id": 42,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 16906.5187,
+      "bbox": [
+        107.53,
+        32.6,
+        101.17,
+        167.11
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 43,
+      "image_id": 43,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 16327.529800000002,
+      "bbox": [
+        96.67,
+        61.82,
+        102.29,
+        159.62
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 44,
+      "image_id": 44,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 23686.336799999997,
+      "bbox": [
+        82.05,
+        40.84,
+        142.38,
+        166.36
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 45,
+      "image_id": 45,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 13610.2888,
+      "bbox": [
+        102.66,
+        72.31,
+        98.17,
+        138.64
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 46,
+      "image_id": 46,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3439.9296,
+      "bbox": [
+        166.73,
+        54.33,
+        46.84,
+        73.44
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 47,
+      "image_id": 47,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2092.2989999999995,
+      "bbox": [
+        158.86,
+        78.31,
+        40.47,
+        51.7
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 48,
+      "image_id": 48,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3962.072999999999,
+      "bbox": [
+        151.37,
+        73.44,
+        62.95,
+        62.94
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 49,
+      "image_id": 49,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5253.584999999999,
+      "bbox": [
+        177.22,
+        32.97,
+        60.7,
+        86.55
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 50,
+      "image_id": 50,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3868.7297999999982,
+      "bbox": [
+        152.87,
+        55.45,
+        47.58,
+        81.31
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 51,
+      "image_id": 51,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5350.117599999999,
+      "bbox": [
+        151.37,
+        91.05,
+        69.32,
+        77.18
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 52,
+      "image_id": 52,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 22842.3799,
+      "bbox": [
+        92.17,
+        34.47,
+        102.29,
+        223.31
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 53,
+      "image_id": 53,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 24554.4642,
+      "bbox": [
+        109.78,
+        41.96,
+        126.27,
+        194.46
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 54,
+      "image_id": 54,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 4404.113999999999,
+      "bbox": [
+        161.49,
+        49.08,
+        51.33,
+        85.8
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 55,
+      "image_id": 55,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3812.590499999999,
+      "bbox": [
+        191.09,
+        78.31,
+        52.45,
+        72.69
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 56,
+      "image_id": 56,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2777.512199999999,
+      "bbox": [
+        165.98,
+        83.18,
+        49.09,
+        56.58
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 57,
+      "image_id": 57,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3545.3196000000003,
+      "bbox": [
+        183.59,
+        104.91,
+        46.84,
+        75.69
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 58,
+      "image_id": 58,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2627.4623999999985,
+      "bbox": [
+        168.61,
+        47.21,
+        38.96,
+        67.44
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 59,
+      "image_id": 59,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 29173.9536,
+      "bbox": [
+        87.67,
+        23.23,
+        127.02,
+        229.68
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 60,
+      "image_id": 60,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 4221.108299999999,
+      "bbox": [
+        156.62,
+        69.31,
+        58.07,
+        72.69
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "occluded": false,
+        "rotation": 0.0
+      }
+    }
+  ]
+}
