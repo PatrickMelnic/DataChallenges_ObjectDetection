@@ -1,6 +1,6 @@
 Data Challenges - Object Detection / Multilabel Classification
 --------------------------------------------------------------
-Das ist unser Multilabel-Klassifikationsansatz, welcher für die Weiterwendung als Backbone in Object Detection Algorithmen dienen kann. Der folgende Text beschreibt die Benutzung der im Projekt enthaltenen
+Das ist unser Multilabel-Klassifikationsansatz, welcher für die Weiterverwendung als Backbone in Object Detection Algorithmen dienen kann. Der folgende Text beschreibt die Benutzung der im Projekt enthaltenen
 Skripte, um auf die Ergebnisse zu kommen, welche wir in unserer Präsentation generiert haben. 
 
 Zuerst muss der zu bearbeitende Datensatz lokal für das Modell eingeführt werden. Dies sollte im Unterordner /datasets/CN_dataset_obj_detection_04_23/ geschehen, 
