@@ -16,8 +16,3 @@ die Mindestanzahl Labels.
 
 Um die angezeigten Heatmaps zum Vergleich der Label Prediction Agreement/Confusion Matrix und der Co-occurence Matrix werden die eval-Skripte mit Nummerierungen getrennt durch "_" benutzt, wobei die Nummer die 
 Begrenzung der Daten, wie zuvor angesprochen, auf eine Mindestanzahl bezeichnet. Für die Visualisierung der Anzahl Bilder pro Label und die Verteilung der Anzahl Labels pro Bild wird das visualise-Skript verwendet.
-
------------------------------------------------------------------------------------------------------------------------
-
-"Dieses Projekt ist lizenziert unter der Creative Commons Attribution - NonCommercial - ShareAlike 3.0 Germany License.
-Um eine Kopie dieser Lizenz zu sehen, besuchen Sie Creative Commons Lizenz."
